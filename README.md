@@ -1,1 +1,2 @@
 准备做一个可用在边缘节点的轻量级kubelet
+类似于virtual kubelet，可以通过provider接口进行扩展，让任何东西可接入到k8s
